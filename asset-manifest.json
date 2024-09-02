@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf0be304.css",
+    "main.js": "/portfolio/static/js/main.19fa33ce.js",
+    "static/media/img1.png": "/portfolio/static/media/img1.6bee84e3323f18653849.png",
+    "static/media/img1.svg": "/portfolio/static/media/img1.4d9745c233f2d16c9e74f3a73e191c30.svg",
+    "static/media/MADHUMITA_PRADHAN_RESUME.pdf": "/portfolio/static/media/MADHUMITA_PRADHAN_RESUME.20c33e414a7e59701f7f.pdf",
+    "static/media/svm.jpg": "/portfolio/static/media/svm.1a986b567e0701221dc7.jpg",
+    "static/media/Quiz_Logo.png": "/portfolio/static/media/Quiz_Logo.c5652a53c961de843dc0.png",
+    "static/media/programmer.png": "/portfolio/static/media/programmer.0362c457e04e71fe7dd7.png",
+    "static/media/kendrapada.avif": "/portfolio/static/media/kendrapada.917602cf9fca8a6ae6a1.avif",
+    "static/media/welcome.svg": "/portfolio/static/media/welcome.3592b9eb60079397700c74c3f40de420.svg",
+    "static/media/ravenshaw.jpg": "/portfolio/static/media/ravenshaw.0ae696e1a02e9442a100.jpg",
+    "static/media/riti.svg": "/portfolio/static/media/riti.1f69237dfc6bbc4ca85b5265d4e2425f.svg",
+    "index.html": "/portfolio/index.html",
+    "main.bf0be304.css.map": "/portfolio/static/css/main.bf0be304.css.map",
+    "main.19fa33ce.js.map": "/portfolio/static/js/main.19fa33ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0be304.css",
+    "static/js/main.19fa33ce.js"
+  ]
+}
