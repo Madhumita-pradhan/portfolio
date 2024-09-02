@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf0be304.css",
-    "main.js": "/portfolio/static/js/main.19fa33ce.js",
+    "main.js": "/portfolio/static/js/main.e9ab85df.js",
     "static/media/img1.png": "/portfolio/static/media/img1.6bee84e3323f18653849.png",
     "static/media/img1.svg": "/portfolio/static/media/img1.4d9745c233f2d16c9e74f3a73e191c30.svg",
     "static/media/MADHUMITA_PRADHAN_RESUME.pdf": "/portfolio/static/media/MADHUMITA_PRADHAN_RESUME.20c33e414a7e59701f7f.pdf",
@@ -14,10 +14,10 @@
     "static/media/riti.svg": "/portfolio/static/media/riti.1f69237dfc6bbc4ca85b5265d4e2425f.svg",
     "index.html": "/portfolio/index.html",
     "main.bf0be304.css.map": "/portfolio/static/css/main.bf0be304.css.map",
-    "main.19fa33ce.js.map": "/portfolio/static/js/main.19fa33ce.js.map"
+    "main.e9ab85df.js.map": "/portfolio/static/js/main.e9ab85df.js.map"
   },
   "entrypoints": [
     "static/css/main.bf0be304.css",
-    "static/js/main.19fa33ce.js"
+    "static/js/main.e9ab85df.js"
   ]
 }
